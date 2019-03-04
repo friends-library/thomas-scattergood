@@ -594,7 +594,7 @@ to pour out my soul.`"
 [.offset]
 In a letter addressed to his son, dated second month 27th, 1798, at Lewes, he says:
 
-[.embedded-content-document.<]
+[.embedded-content-document.letter]
 --
 
 I am labouring along in much weakness, and perhaps I may safely add,

@@ -63,6 +63,7 @@ Extract of a letter dated:
 
 [.embedded-content-document.letter]
 --
+
 [.signed-section-context-open]
 Fairfax, sixth month 4th, 1792.
 

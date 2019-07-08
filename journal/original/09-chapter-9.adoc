@@ -24,7 +24,7 @@ Catherine (Payton) Phillips`' journal to my kind landlady,
 and feel rather lightened of my burden.
 
 "`5th, sixth-day.--Attended the meeting for sufferings,
-and it was evident that earthly wisdom '`prevailed; may it not be exalted over heavenly:
+and it was evident that earthly wisdom prevailed; may it not be exalted over heavenly:
 and yet in the midst, my mind for a small space was favoured with a comfortable calm,
 and I saw that a purging time must and would overtake this part of the family.
 O how my soul longs, and has done so before in this city,
@@ -35,7 +35,7 @@ and it is some encouragement to find that the
 labour in that was not as water spilt on a stone.
 A man who sat in the gallery, and for a time was noisy and unruly, went away thoughtful.
 He had been a great swearer, but has not been heard to use an oath since,
-fn the beginning of the meeting two other men were light and airy, talking, etc.,
+in the beginning of the meeting two other men were light and airy, talking, etc.,
 but before it closed tears flowed from one of them,
 and others expressed their satisfaction with the meeting,
 and admiration at the long solemn silence.
@@ -145,6 +145,9 @@ more so than has frequently of late been experienced,
 and be found yet a learner in the school of Christ, which only fits for gospel ministry.
 I spent a part of this evening in reading a work,
 wherein I found this remark on a passage of scripture, that took my attention;
+
+[quote]
+____
 '`Then did they spit in his face and buffeted him;
 and others smote him with the palms of their hands:`' Matthew 26:67.
 This is incontestable truth;
@@ -155,11 +158,13 @@ and I make sackcloth their covering,`' Isaiah 1:3-4,
 fulfills the words of an ancient prophecy; '`I gave my back to the smiters,
 and my cheeks to them that plucked off the hair:
 I hid not my face from shame and spitting.`'
-'`He whose name is unutterable, suffered himself to be ill treated,
+'`He whose name is unutterable, suffered himself to be ill-treated,
 in the most shameful agonizing and disgusting manner, by the meanest wretches,
 and he was silent: no ray of his omnipotence struck his creatures dead.
 He concealed the power which created worlds.
 What feelings suffice to adore in a proper manner the greatness of that divine virtue.`'
+____
+
 I admire at the way in which I go shut up here from day to day.
 My voice is much gone in consequence of a cold, and exertion of late in speaking.
 When I examine and look back,
@@ -288,7 +293,7 @@ and my two friends I thought spoke to the state of the meeting,
 and it was my lot again to sit in silent conflict,
 but before the business was concluded I laboured amongst the men.
 
-"`7th.--Our women inclining to goto the week-day meeting at Canterbury,
+"`7th.--Our women inclining to go to the week-day meeting at Canterbury,
 and two chaises being provided, I drove one and Richard Weston the other;
 we had a very fine warm day, and got to William Elgar`'s a little after night,
 and were kindly received.
@@ -347,10 +352,10 @@ I stood up in weakness and poverty and laboured amongst them.
 After dining at Richard Baker`'s,
 a number of us took a walk along the sea shore as far as the castle, etc.
 I feel poor and oppressed, although I am in a sweet family and comfortable as to them.
-How often is this language uppermost, and is it not necessary for me:
+How often is this language uppermost, and is it not necessary for me?--
 '`Wash me in the laver of regeneration.`'
 
-"`15th.--I have a pleasant lodging room next the sea,
+"`15th.--I have a pleasant lodging room next to the sea,
 and some serious reflections impressed my mind this morning.
 I remembered what S. C. says concerning outward defence and armies;
 and on mentioning it to my host, he told me he often thought of it.
@@ -504,7 +509,7 @@ he was closely spoken to, and his condition opened.
 Yesterday was a laborious one, and close work.
 
 "`19th.--I have had close exercise in this place,
-but my little room next the sea has been in degree like the prophet`'s room.
+but my little room next to the sea has been in degree like the prophet`'s room.
 My body has been refreshed, and this morning my mind also, in good degree.
 After breakfast Richard Baker had the two women and I apart,
 and handed forth some seasonable advice to those young plants to encourage them;
@@ -628,7 +633,7 @@ or to appoint a meeting.
 How am I wrapt about with darkness and sorrow, and can have little delight in what many,
 it is to be feared, freely indulge in, at this place so noted for pleasure.
 
-"`3rd.--I omitted to mention that last even we sat in John Glaisyer`'s family;
+"`3rd.--I omitted to mention that last evening we sat in John Glaisyer`'s family;
 he being in the practice of calling them together and sitting down with them,
 two evenings in the week.
 My companions had something to offer, and I was glad of such a quiet opportunity.
@@ -1243,11 +1248,10 @@ Attend unto me, and hear me: I mourn in my complaint, and make a noise;
 because of the voice of the enemy, because of the oppression of the wicked:
 for they cast iniquity upon me, and in wrath they hate me.
 My heart is sore pained within me: and the terrors of death are fallen upon me.
-Fearfulness and trembling are come upon me, and horror hath overwhelmed me, or covered me.
-And I said.
-Oh that I had wings like a dove! for then would I fly away, and be at rest.
+Fearfulness and trembling are come upon me, and horror hath overwhelmed me,`' or covered me.
+'`And I said, Oh that I had wings like a dove!--for then would I fly away, and be at rest.
 Lo, then would I wander far off, and remain in the wilderness,
-I would hasten my escape from the windy storm and tempest,`'
+I would hasten my escape from the windy storm and tempest.`'
 
 "`18th.--Awoke pretty early, and lay in a pensive, thoughtful frame of mind,
 looking over my movements, and felt an earnest solicitude and prayer arise,
@@ -1329,7 +1333,7 @@ but when the rod has been exercised for a time,
 there will be an open door for the servants and messengers.
 My soul craves a share of labour in this blessed day, yet with humble submission.
 The opening I was favoured with was sweet,
-and I thought if it was the Lord`'s will to remove me from my troubles here.
+and I thought if it was the Lord`'s will to remove me from my troubles here,
 He who made me, and has thus far supported, borne up, and corrected me also,
 would have mercy on me.
 May thankfulness fill my soul for this sense.
@@ -1471,7 +1475,7 @@ dealings of the Lord with us and with his people.
 How wonderfully hath he at times opened both the door of utterance and entrance,
 so that we have been constrained to acknowledge, '`Great and marvellous are thy works.
 Lord God Almighty; just and true are all thy ways, thou King of saints.`'
-Is he not working wonders in the earth`'.`' yea, verily, our eyes are made to behold,
+Is he not working wonders in the earth? yea, verily, our eyes are made to behold,
 as well as our faith renewed to believe;
 so that at seasons we can bless and adore his holy name, and say,
 '`Thou art a long-suffering, gracious God; inviting all, even the transgressors in Israel,
@@ -1567,7 +1571,7 @@ Charity Cook and Mary Swett, had a share in the labour.
 After which I went to William S. Fry`'s, where I found a large company,
 and was exercised in religious communication.
 In the afternoon meeting for business,
-my mmd was engaged to speak in testimony against appointing such members as
+my mind was engaged to speak in testimony against appointing such members as
 are not faithful to support the precious testimonies of Truth at home;
 and sending them to yearly meeting to open their mouths,
 to the afflicting and wounding of their brethren.
@@ -1673,9 +1677,9 @@ and also Sarah Harrison, to my comfort.
 In my former letters, if they have come to hand,
 you will perceive that I had got on the south side of London:
 I went through two counties fully, and part of another,
-and have been comforted in finding or hearing that it
-has not been in vain I am a servant in waiting:--wait,
-then also, all you my dear family, who are so nearly interested in my welfare,
+and have been comforted in finding or hearing that it has not been in vain.
+&hellip; I am a servant in waiting:--wait, then also,
+all you my dear family, who are so nearly interested in my welfare,
 and pray for me when you can, that I may fulfill the task,
 much whereof is drinking the cup of suffering.
 The cup which my heavenly Father giveth me, or permitteth me, to drink,
@@ -1741,8 +1745,9 @@ Lord grant me the comfort of thy holy presence, to go with me, and it will be en
 Thy power is above every power.
 
 Draw away my affections from all hindering, earthly concerns.
-Blot out and remove all my iniquities, and enable me to say.
-Thy will be done I desired to pray for a clear evidence,
+Blot out and remove all my iniquities, and enable me to say,
+Thy will be done.
+&hellip; I desired to pray for a clear evidence,
 that I was in suffering for some good purpose; and was stopped by this reflection;
 where then would be the exercise of faith?
 and it appeared desirable to walk by faith, if only by a grain.
@@ -1791,7 +1796,7 @@ knowing that nothing short of the invincible and invisible arm of God`'s salvati
 can support and bear up the tossed, tribulated mind, through the vicissitudes of time.
 An establishment in this belief leads to a daily breathing in the pathetic language;
 '`Arise O God! strengthen thy feeble servant with might in the inner man,
-that so preservation and perseverance through all may be experienced.
+that so preservation and perseverance through all may be experienced.`'
 
 But there are seasons when thy poor friend cannot lift
 up her soul to Heaven and cry for daily bread;
@@ -1828,7 +1833,8 @@ And is it not a day when the bridegroom of souls is
 often withdrawing himself from his church and people,
 because of the degeneracy,
 the lukewarmness and indifferency of mind which is prevalent
-amongst the high professing Christians`'? Can we wonder then,
+amongst the high professing Christians?
+Can we wonder then,
 that mourning should be the appointed garment of the Lord`'s exercised servants,
 who are rightly dipped into the present bewildered state of the church,
 and see with the eye of their mind, that the beauty is fallen from Israel,
@@ -1978,9 +1984,9 @@ a poor, solitary man, as a desolate captive passing to and fro.
 I hope at times, that a blessing will spring out of my trials,
 if my faith and confidence fail not.
 When I can believe that I am doing or suffering the Lord`'s will, it balances my soul,
-and is enough for the moment,
-I went to White Chapel burial ground to the burial of Captain;
-a number of his little sailor boys and others were there, f felt the evening before,
+and is enough for the moment.
+I went to White Chapel burial ground to the burial of Captain +++_______+++;
+a number of his little sailor boys and others were there, I felt the evening before,
 an unusual impression on being invited to attend,
 and was favoured to speak at the grave,--it was a time of tears,
 and some of the lads wept aloud.

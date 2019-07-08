@@ -57,8 +57,8 @@ I went on board William Rotch`'s ship with Elizabeth Drinker, accompanied by Wil
 and Sarah Rudd and Rachel Smith.
 Elizabeth Drinker expressed the satisfaction she felt on board,
 and that it seemed like a pleasant home for those that were permitted to go;
-but as regarded herself,
-she did not know but that Trophimus must be yet left at Miletum sick;`'
+but as regarded herself, she did not know but that
+'`Trophimus must be yet left at Miletum sick;`'
 alluding to Samuel Emlen`'s testimony at select meeting on second-day;
 when he mentioned this passage in sympathy with her.
 
@@ -78,7 +78,18 @@ with which the meeting united.
 
 "`11th, sixth-day.--Dined at home,
 (Joseph Smith`'s,) and had the company of Thomas Clarkson,
-the great advocate for the liberty of the blacks.
+the great advocate for the liberty of the blacks.^
+footnote:[Thomas Clarkson was a prominent and devoted English abolitionist whose
+life`'s work on behalf of the enslaved africans brought him into frequent and
+intimate fellowship with members the Society of Friends, who,
+by faithful adherance to the discoveries of the Light of Christ in their hearts
+had become the earliest and most consistent opponents of slavery in Christendom.
+Late in his life Clarkson felt uniquely qualified to write an account of
+the disctinctive principles and practices of the Society of Friends, which he
+did in a three volume book entitled [.book-title]#A Portraiture of Quakerism#--
+a work which strongly indicates that that Clarkson had,
+through his long acquaintance and collaboration with them,
+become substantially convinced of the principles held by Friends. --FLP]
 
 "`12th, seventh-day.--Lord enable me to look with greater steadiness to you,
 and to preserve the balance of my mind;
@@ -170,7 +181,7 @@ In conversation with my friend this morning, I find our feelings very much corre
 This evening, on looking over the day, and also those days which I have spent in London,
 what can I say or do more than the poor publican did?
 We poor creatures can neither add to, nor take from the work,
-O that neither carelessness, nor unwatchfulness, nor sloth may be laid '`to my charge,
+O that neither carelessness, nor unwatchfulness, nor sloth may be laid to my charge,
 I am jealous and afraid of myself.
 
 "`31st, fifth-day,--To Ratcliff monthly meeting; which, although small,
@@ -299,12 +310,13 @@ revived again and again; and on opening Cowper`'s poems this passage first struc
 ____
 '`Cry aloud, thou that sittest in the dust,
 Cry to the proud, the cruel and unjust;
-Knock at the gales of nations--rouse their fears,
-Say, wrath is coining, and the storm appears;
+Knock at the gates of nations--rouse their fears,
+Say, wrath is coming, and the storm appears;
 But raise the shrillest cry in British ears;
 ____
 
-+++.+++..which seemed to correspond with the deep conflicts of my mind,
+[.no-indent]
+&hellip; which seemed to correspond with the deep conflicts of my mind,
 which has been ready of late to take up the prophet`'s language;
 '`Who has believed our report?`'
 what can such poor unworthy feeble instruments do to
@@ -491,7 +503,7 @@ firmness in the Christian life which is desirable.
 My days are few and fleeting--O for greater religious improvement,
 and more wisdom and stability.
 
-"`16th.--Attended Tottenham meeting, where the corps of H. C. was brought,
+"`16th.--Attended Tottenham meeting, where the corpse of H. C. was brought,
 on the way to the burial ground, at Winchmore hill, I had very close work, after which,
 went home with Thomas Horne.
 
@@ -531,15 +543,15 @@ and it was precious to me to be favoured to sit by and converse with him,
 and to receive his blessing.
 He told me the Lord was with me, and that he hoped I would be preserved to the end.
 '`I longed to see you,`' said he, '`after I heard you had come.
-You sees I am a poor old man; I can`'t see you,
-though I sometimes say see,--but I am glad to hear you.
+You see I am a poor old man; I can`'t see you,
+though I sometimes say _see_,--but I am glad to hear you.
 The Lord has been wonderfully good to me, and I love him;
-but sometimes I tear I cannot love him enough.`'
+but sometimes I fear I cannot love him enough.`'
 On mentioning the trials and temptations to be met with, he said,
 '`don`'t fear the adversary, for perfect love casts out fear:
 my divine Master has been wonderfully kind to me, and given me victory over him;
-I don`'t fear him; and he has enabled me to say to him in time past, Devil do your worst,
-I fear you not.`'
+I don`'t fear him; and he has enabled me to say to him in time past,
+Devil do your worst, I fear you not.`'
 After a little pause he said, '`for whose sake I know not,
 but these expressions have impressed my mind, '`there is that which scatters,
 and yet increases; and there is that withholds more than is fitting,
@@ -793,7 +805,7 @@ the place of his abode, to attend the burial.
 "`15th.--To meeting at eleven o`'clock, where the body of our deceased friend was brought.
 It was a large, mixed meeting, and I thought a low time.
 O for preservation on such occasions, when there is so much looking to instruments!
-I followed the corps to the ground, where I could not forbear uttering these expressions,
+I followed the corpse to the ground, where I could not forbear uttering these expressions,
 with some little addition; '`My father, my father, the chariots of Israel,
 and the horsemen thereof;`' with a desire,
 that the youth of that neighbourhood might be favoured to take
@@ -1184,7 +1196,7 @@ he is pleased often to mingle sweets with the bitters, which proved to be the ca
 for, although on my coming home, I found my dear mother so very weak and ill in body,
 that there appeared no room to flatter ourselves with an expectation of her recovery,
 yet her mind was favoured with such a sweet calm,
-and appeared so remarkably patient under '`her allotted affliction,
+and appeared so remarkably patient under her allotted affliction,
 that I scarcely dared allow a desire to enter, that she might be restored to us again,
 believing our loss would be her eternal gain.
 You may conclude I esteemed it a great favour,
